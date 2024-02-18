@@ -51,3 +51,7 @@ To get started with the JobPortal API, follow these steps:
    ```bash
    go run main.go
    ```
+
+## API Documentation
+
+For detailed documentation of the JobPortal API endpoints, refer to the [API Documentation](https://documenter.getpostman.com/view/17126567/2sA2r8248z).
